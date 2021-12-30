@@ -101,3 +101,6 @@ This means if a whale decides to dump their entire bag, a lot more of the tokens
 
 WHAT EFFECT DOES IT HAVE?
 This forces everyone holding huge amounts of token to be reasonable at the same time responsible, not to paint the candle in red. The optimal way to sell off is in small proportions over time.
+
+**More Details**
+For more information, visit website https://www.luckyshibainu.com and checkout the whitepaper.
